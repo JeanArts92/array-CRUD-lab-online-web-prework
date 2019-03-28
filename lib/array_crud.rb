@@ -9,7 +9,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  dark_souls_3.push ("aldritch, devour of gods")
+  dark_souls_3 << "aldritch, devour of gods"
   
 end
 
