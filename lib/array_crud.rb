@@ -34,11 +34,11 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  create_an_array.last
+  create_an_array.first
   
 end
 
 def retrieve_last_element_from_array(array)
-  dark_souls_3 [4]
+  create_an_array[3]
   
 end
