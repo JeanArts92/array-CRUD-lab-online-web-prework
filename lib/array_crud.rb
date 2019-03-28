@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  dark_souls_3 = ["am", "younger prince lothric", "abyss watchers", "arrays!"]
+  dark_souls_3 = ["wow", "younger prince lothric", "abyss watchers", "arrays!"]
   
 end
 
