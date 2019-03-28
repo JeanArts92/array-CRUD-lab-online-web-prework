@@ -1,9 +1,10 @@
 def create_an_empty_array
-  dark_souls = ["elder prince lorian", "younger prince lothric", "abyss watchers", "yhorm the giant"]
+  dark_souls_1 = []
   
 end
 
 def create_an_array
+  dark_souls_3 = ["elder prince lorian", "younger prince lothric", "abyss watchers", "yhorm the giant"]
   
 end
 
