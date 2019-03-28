@@ -34,8 +34,8 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  dark_souls_3 = ["wow", "younger prince lothric", "am", "arrays!"]
-  create_an_array[2]
+  dark_souls_3 = ["am", "younger prince lothric", "wow", "arrays!"]
+  create_an_array[0]
   
 end
 
