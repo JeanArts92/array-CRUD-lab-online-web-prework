@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  dark_souls_3 = ["elder prince lorian", "younger prince lothric", "abyss watchers", "arrays!"]
+  dark_souls_3 = ["wow", "younger prince lothric", "abyss watchers", "arrays!"]
   
 end
 
@@ -24,12 +24,12 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  elder prince lorian = dark_souls_3.shift
+  wow = dark_souls_3.shift
   
 end
 
 def retrieve_element_from_index(array, index_number)
-  dark_souls_3 [2]
+  create_an_array [2]
   
 end
 
