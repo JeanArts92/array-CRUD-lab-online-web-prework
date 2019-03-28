@@ -14,7 +14,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  dark_souls_3
+  the_nameless_king = dark_souls_3.shift
   
 end
 
